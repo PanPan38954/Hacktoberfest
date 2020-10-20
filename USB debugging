@@ -1,0 +1,2 @@
+.\adb devices
+.\adb shell pm grant com.android.killios.WRITE_SECURE_SETTINGS
